@@ -1,10 +1,7 @@
 # DBC U Soon 
 
 Visit the site - https://dbc-u-soon-2.herokuapp.com
-
-![Coverage Status](http://img.shields.io/coveralls/haml/haml.svg)
-[![Build Status](https://travis-ci.org/aus-red-pandas-2016/Team-JTstream.svg?branch=master)](https://travis-ci.org/aus-red-pandas-2016/Team-JTstream)
-
+Allow 10 seconds for the app to "wake up"
 ## Team-JTstream
 
 ### Team Members
